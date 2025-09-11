@@ -2,15 +2,15 @@
 
 *lelelelel*
 
-**ututtututu**
+ututtututu
 
-***vvavavavavava***
+*vvavavavavava*
 
 ЛА*бу*ба
 
-~~АХМЭД~~
+АХМЭД
 
-`бонека амбалабу`
+бонека амбалабу
 
 >bombardilo crocodilo
 >>prprpprpprpprp
@@ -36,7 +36,6 @@
 - [x] nejjsjejele
 - [ ] лиоровлв
 
-> фэфэфэфэфэф
 + ауауауауау
 
 ## br br patapim ##
@@ -44,4 +43,19 @@
 <http://pstu.ru>
 [нажми сюда](http://pstu.ru "сайт Политеха")
 
-[text][url.pstu]: не обман точно " ыуууы тыкни"
+[сылка попатеха🤗][url.pstu]
+
+[url.pstu]: http://pstu.ru
+
+![img1](путь до изображения)
+![img2](https://img-webcalypt.ru/storage/memes/29392/20252/aJXj90awQ0zPfVcHLBOHBDVyEQzGaCIjIyVXYrXLtz28XDyEpRYaDFom6XLYfGfR4JBnGSNUmPaI3p147HtWqEqZLW4LzksCbuVZCrVN9uWx1f8GUNldTtAT356sJ3sA.jpeg)
+
+#include <iostream>
+int main(){
+    std :: cout << "hello world";
+    return 0;
+}
+|текст слева|по середине|и справа|
+|:----------|:---------:|-------:|
+|тест в ячейке|[нажми сюда](http://pstu.ru "сайт Политеха")|ну и еще|
+|ляляля|тополя|и я|
